@@ -1,6 +1,6 @@
 # Grad_School_Recommendation_System
 
-For students who are interested in apply for grad school, finding target schools is one of the important steps for grad school application and somethimes students may interesed in past years admission status in order to plan their application well. This project will analyze the admission data submitted by students from previous on GradCafe and provide insighs on the admission trend. Moreover, a grad school recommender system will provide k univeristies that suitable for a student's background. 
+For students who are interested in apply for grad school, finding target schools is one of the important steps for grad school application and sometimes students may interested in past years admission status in order to plan their application well. This project will analyze the admission data submitted by students from previous on GradCafe and provide insights on the admission trend. Moreover, a grad school recommender system will provide k universities that suitable for a student's background.
 
 ## DataSet
 
